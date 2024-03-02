@@ -3,7 +3,7 @@
 numpy<br>
 matplotlib<br>
 csv<br>
-tkinter<br?
+tkinter<br>
 以下のものをインストールしておいてください<br>
 csvファイルも用意してください。
 # 使い方
